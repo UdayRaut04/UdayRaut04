@@ -3,7 +3,7 @@ Pursuing a B.Tech in Cyber Security at Symbiosis Skills & Professional Universit
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_udayraut_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-raut-557535251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](<a href="mailto:uday.s.raut04@gmail.com?subject=Hello&body=I%20wanted%20to%20reach%20out%20to%20you.">Email Uday</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_udayraut_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-raut-557535251/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uday.s.raut04@gmail.com
 ) 
 
 # 💻 Tech Stack:
