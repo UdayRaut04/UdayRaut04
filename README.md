@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pursuing a B.Tech in Cyber Security at Symbiosis Skills & Professional University.<br><br>Involved in data analysis and community management.<br><br>Likely engaged in project work or internships that combine cybersecurity principles with data-driven insights.
+Pursuing a B.Tech in Cyber Security at Symbiosis Skills & Professional University.<br><br>Involved in data analysis and cyber security .<br><br>Likely engaged in project work or internships that combine cybersecurity principles with data-driven insights.
 
 
 ## 🌐 Socials:
